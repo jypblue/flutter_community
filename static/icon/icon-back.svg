@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="29px" viewBox="0 0 32 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="K线" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="k线-盘口" transform="translate(-52.000000, -145.000000)" fill="#000000" stroke="#000000">
+            <g id="编组-3" transform="translate(30.000000, 120.000000)">
+                <g id="back" transform="translate(0.000000, 1.000000)">
+                    <g transform="translate(23.000000, 24.000000)" id="Me_Arrow">
+                        <path d="M9.73339891,17.1256932 L17.5067493,24.8990436 L14.0053994,28.4003934 L-7.68585195e-12,14.394994 L0.194797314,14.2001967 L-4.81570339e-12,14.0053994 L14.0053994,3.87956334e-12 L17.5067493,3.50134985 L8.83406232,12.1740368 L30,12.1740368 L30,17.1256932 L9.73339891,17.1256932 Z" transform="translate(15.000000, 14.200197) scale(-1, 1) rotate(-180.000000) translate(-15.000000, -14.200197) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

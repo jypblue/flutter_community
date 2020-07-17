@@ -1,0 +1,58 @@
+{
+  "id": "1883694",
+  "name": "community_app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "flutter app",
+  "glyphs": [
+    {
+      "icon_id": "1012754",
+      "name": "消息",
+      "font_class": "iconfontzhizuobiaozhun17",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1727477",
+      "name": "237拍照",
+      "font_class": "paizhao",
+      "unicode": "e8d1",
+      "unicode_decimal": 59601
+    },
+    {
+      "icon_id": "2794636",
+      "name": "星球",
+      "font_class": "xingqiu",
+      "unicode": "e8e7",
+      "unicode_decimal": 59623
+    },
+    {
+      "icon_id": "1859572",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1133644",
+      "name": "me",
+      "font_class": "me",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "915603",
+      "name": "发布",
+      "font_class": "fabu",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "6539441",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    }
+  ]
+}
