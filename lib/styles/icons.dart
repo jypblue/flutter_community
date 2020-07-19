@@ -17,6 +17,8 @@ class AppIcons {
       const IconData(0xe8d1, fontFamily: AppIcons.FONT_FAMILY);
   static const IconData STAR =
       const IconData(0xe8e7, fontFamily: AppIcons.FONT_FAMILY);
+  static const IconData MAIL =
+      const IconData(0xe643, fontFamily: AppIcons.FONT_FAMILY);
 
   // svg icon
   static const String ICON_STAR = 'static/icon/icon-star.svg';

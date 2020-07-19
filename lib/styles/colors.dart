@@ -44,4 +44,6 @@ class AppColors {
 
   static const Color mainTextColor = primaryDarkValue;
   static const Color textColorWhite = white;
+  static const Color color333 = Color(0xFF333333);
+  static const Color color999 = Color(0xFF999999);
 }

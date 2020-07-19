@@ -6,6 +6,13 @@
   "description": "flutter app",
   "glyphs": [
     {
+      "icon_id": "772862",
+      "name": "信封8",
+      "font_class": "xinfeng8",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
       "icon_id": "1012754",
       "name": "消息",
       "font_class": "iconfontzhizuobiaozhun17",
