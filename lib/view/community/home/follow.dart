@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// 首页关注频道
 class HomeFollow extends StatefulWidget {
   HomeFollow({Key key}) : super(key: key);
 
@@ -10,8 +11,12 @@ class HomeFollow extends StatefulWidget {
 class _HomeFollowState extends State<HomeFollow> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Text('关注'),
+    return ListView(
+      children: <Widget>[
+        Container(
+          child: Text('data'),
+        )
+      ],
     );
   }
 }
